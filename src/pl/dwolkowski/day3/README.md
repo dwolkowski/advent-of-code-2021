@@ -153,4 +153,4 @@ So, to find the CO2 scrubber rating, keep the number with a `0` in that position
 
 ___
 
-<br />
+<br /> 
