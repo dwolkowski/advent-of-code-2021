@@ -81,12 +81,12 @@ ___
 > you the full picture; you need to also consider diagonal lines.
 
 > Because of the limits of the hydrothermal vent mapping system, the lines in  
-> your list will only ever be horizontal, vertical, or a diagonal line at  
-> exactly 45 degrees. In other words:
-> - An entry like 1,1 -> 3,3 covers points 1,1, 2,2, and 3,3.
-> - An entry like 9,7 -> 7,9 covers points 9,7, 8,8, and 7,9.
+> your list will only ever be **horizontal, vertical, or a diagonal line at  
+> exactly 45 degrees**. In other words:
+> - An entry like `1,1 -> 3,3` covers points `1,1`, `2,2`, and `3,3`.
+> - An entry like `9,7 -> 7,9` covers points `9,7`, `8,8`, and `7,9`.
 
-> You still need to determine the number of points where at least two lines overlap.
+> You still need to determine **the number of points where at least two lines overlap**.
 
 <details>
   <summary><strong> Example </strong></summary>
