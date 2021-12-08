@@ -93,7 +93,7 @@ ___
 **Content**
 > Through a little deduction, you should now be able to determine the remaining digits.
 
-> For each entry, determine all of the wire/segment connections and decode the 
+> For each entry, determine all of the wire/segment connections and decode the  
 > four-digit output values. **What do you get if you add up all of the output values?**
 
 <details>
