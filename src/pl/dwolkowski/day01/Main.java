@@ -1,12 +1,13 @@
-package pl.dwolkowski.day1;
+package pl.dwolkowski.day01;
 
 import pl.dwolkowski.InputFileReader;
+
 import java.util.List;
 
 public class Main {
 
     public static void main(String[] args) {
-        InputFileReader file = new InputFileReader("src/pl/dwolkowski/day1/input.txt");
+        InputFileReader file = new InputFileReader("src/pl/dwolkowski/day01/input.txt");
         List<Integer> list = file.loadIntegerList();
 
         answerOne(list);

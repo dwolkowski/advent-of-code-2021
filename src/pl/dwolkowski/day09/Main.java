@@ -1,4 +1,4 @@
-package pl.dwolkowski.day9;
+package pl.dwolkowski.day09;
 
 import pl.dwolkowski.InputFileReader;
 
@@ -12,7 +12,7 @@ public class Main {
     static boolean[][] visited;
 
     public static void main(String[] args) {
-        InputFileReader file = new InputFileReader("src/pl/dwolkowski/day9/input.txt");
+        InputFileReader file = new InputFileReader("src/pl/dwolkowski/day09/input.txt");
 
         for (String line : file.loadStringList()) {
             List<Integer> mapRow = new ArrayList<>();
